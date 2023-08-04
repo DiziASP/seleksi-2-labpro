@@ -1,0 +1,73 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PTK",
+      "request": "launch",
+      "mainClass": "PTK",
+      "projectName": "seleksi-2-labpro_913da940"
+    },
+    {
+      "type": "java",
+      "name": "Hitung",
+      "request": "launch",
+      "mainClass": "lain.Hitung",
+      "projectName": "seleksi-2-labpro_913da940"
+    },
+    {
+      "type": "java",
+      "name": "Ptk",
+      "request": "launch",
+      "mainClass": "Ptk",
+      "projectName": "seleksi-2-labpro_913da940"
+    },
+    {
+      "type": "java",
+      "name": "Kembalian",
+      "request": "launch",
+      "mainClass": "Kembalian",
+      "projectName": "seleksi-2-labpro_913da940"
+    },
+    {
+      "type": "java",
+      "name": "min_change",
+      "request": "launch",
+      "mainClass": "min_change",
+      "projectName": "seleksi-2-labpro_913da940"
+    },
+    {
+      "type": "java",
+      "name": "Balap",
+      "request": "launch",
+      "mainClass": "Balap",
+      "projectName": "seleksi-2-labpro_913da940"
+    },
+    {
+      "type": "java",
+      "name": "Balapan",
+      "request": "launch",
+      "mainClass": "Balapan",
+      "projectName": "seleksi-2-labpro_913da940"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Works/codestuff/seleksi-2-labpro",
+      "program": "d:/Works/codestuff/seleksi-2-labpro/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
